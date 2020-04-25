@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA81-6705
+
+ Directory of C:\Users\maria\OneDrive\Desktop\git_projects
+
+04/25/2020  01:47 PM    <DIR>          .
+04/25/2020  01:47 PM    <DIR>          ..
+04/25/2020  01:47 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  292,111,368,192 bytes free
